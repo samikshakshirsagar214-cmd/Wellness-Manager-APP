@@ -1,7 +1,8 @@
 # 🧘 Wellness Manager App
 A full-stack **Wellness Management System** that helps users track their **sleep**, **mood**, and **exercise** habits with visual analytics and insights.
-
----
+## DEMO Video:
+https://youtu.be/i8Kh15WSoWw
+https://youtu.be/yA9ZmaKMyKg
 ## Architecture 
 <img width="437" height="804" alt="image" src="https://github.com/user-attachments/assets/78c8fbeb-8a94-4fcd-8243-2a8bb0eefcf5" />
 ## 🚀 Features
