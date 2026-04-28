@@ -2,7 +2,8 @@
 A full-stack **Wellness Management System** that helps users track their **sleep**, **mood**, and **exercise** habits with visual analytics and insights.
 
 ---
-
+## Architecture 
+<img width="437" height="804" alt="image" src="https://github.com/user-attachments/assets/78c8fbeb-8a94-4fcd-8243-2a8bb0eefcf5" />
 ## 🚀 Features
 
 ### 🔐 Authentication
@@ -29,5 +30,3 @@ A full-stack **Wellness Management System** that helps users track their **sleep
 - Clean UI with sidebar navigation
 
 ---
-
-## 🏗️ Architecture (Simple)
